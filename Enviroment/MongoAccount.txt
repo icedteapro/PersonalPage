@@ -1,0 +1,6 @@
+Hostname: icedteaproject-ljqty.gcp.mongodb.net
+SRV: turn on
+Authentication: User/Pass
+UserName: icedtea
+Password: 11052194
+default
